@@ -1,102 +1,88 @@
-<!-- FULL WIDTH HERO -->
+<!-- ================= HERO (CENTERED & SAFE) ================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Akshat%20Sharma&fontSize=50&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%20Focused%20%7C%20React&descAlignY=55&animation=fadeIn" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1220,50:0f2a33,100:1f4d5c&text=Akshat%20Sharma&fontSize=46&fontAlignY=40&desc=Frontend%20Developer%20|%20UI%20Focused%20|%20React&descAlignY=60&animation=fadeIn"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=800&center=true&vCenter=true&width=800&lines=Designing+Clean+and+Responsive+Interfaces;Frontend+Development+with+Purpose;React+%7C+JavaScript+%7C+SCSS;Building+User-First+Web+Experiences" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=900&center=true&vCenter=true&width=900&lines=Building+clean+and+responsive+interfaces;Focused+on+UI+architecture+and+performance;React+%7C+JavaScript+%7C+SCSS"
+/>
 
 </div>
 
 ---
 
-<!-- FULL WIDTH ABOUT -->
-<h2 align="center">About</h2>
+<!-- ================= DARK SECTION 1 ================= -->
 
-<p align="center">
-I am a frontend developer focused on creating <strong>clean, responsive, and visually consistent</strong> web interfaces.
-I enjoy turning ideas and designs into scalable, maintainable, and performance-driven applications using modern frontend technologies.
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=32&color=0:020617,100:020617" />
 
-<p align="center">
-Currently preparing for <strong>internship and entry-level frontend roles</strong>, with a strong interest in UI architecture, accessibility, and polished user experiences.
-</p>
+## About
 
----
+I am a frontend developer focused on building **clean, responsive, and user-centric interfaces**.
+I enjoy translating design concepts into **scalable, maintainable, and visually consistent** web applications using modern frontend technologies.
 
-<!-- ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
-</p>
+I am currently preparing for **internship and entry-level frontend roles**, with a strong interest in UI architecture, accessibility, and performance optimization.
 
 ---
 
-<!-- FULL WIDTH SKILLS FLOW -->
-<h2 align="center">What I Do</h2>
+<!-- ================= DARK SECTION 2 ================= -->
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=32&color=0:020617,100:0f172a" />
 
-🔹 Build responsive & mobile-first layouts  
-🔹 Create reusable React components  
-🔹 Design clean SCSS architecture & theming  
-🔹 Improve UI performance & usability  
-🔹 Focus on accessibility & consistency  
+## What I Focus On
 
-</div>
-
----
-
-<!-- STACK -->
-<h2 align="center">Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,figma,git,github,vscode&perline=9" />
-</p>
+- Responsive and mobile-first UI development  
+- Reusable and scalable React components  
+- SCSS architecture and dark-theme systems  
+- UI performance and smooth interactions  
+- Accessibility and design consistency  
 
 ---
 
-<!-- STATS FULL WIDTH -->
-<h2 align="center">GitHub Activity</h2>
+<!-- ================= DARK SECTION 3 ================= -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat-619&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akshat-619" width="48%" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=32&color=0:0f172a,100:020617" />
 
----
+## Tech Stack
 
-<!-- ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
-</p>
+<img
+  src="https://skillicons.dev/icons?i=html,css,sass,js,react,figma,git,github,vscode&theme=dark&perline=12"
+/>
 
 ---
 
-<!-- CAREER -->
-<h2 align="center">Career Goal</h2>
+<!-- ================= DARK SECTION 4 ================= -->
 
-<p align="center">
-To begin my professional journey as a frontend developer in a collaborative environment where I can sharpen my skills, learn industry best practices, and build meaningful digital experiences that users love.
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=32&color=0:020617,100:020617" />
 
----
+## GitHub Activity
 
-<!-- CONNECT -->
-<h2 align="center">Connect</h2>
-
-<p align="center">
-  <a href="https://github.com/Akshat-619">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-username">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/akzod_h">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Akshat-619&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+  width="49%"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=Akshat-619&theme=tokyonight&hide_border=true"
+  width="49%"
+/>
 
 ---
 
-<p align="center">
-  <em>Focused on clarity, motion, and meaningful frontend experiences.</em>
-</p>
+<!-- ================= DARK SECTION 5 ================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=32&color=0:020617,100:0f172a" />
+
+## Career Goal
+
+To begin my professional journey as a frontend developer in a collaborative environment where I can sharpen my skills, learn industry best practices, and build meaningful digital experiences.
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0b1220,100:0f172a&section=footer&animation=fadeIn"
+/>
