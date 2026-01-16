@@ -1,24 +1,88 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building UI-heavy web dashboards and portfolio projects using HTML, CSS, JavaScript, React (JSX), focusing on clean layouts, charts, and smooth UX.<br>👯 I’m looking to collaborate on<br>Open-source projects related to frontend development, UI components, dashboards, documentation, and beginner-friendly issues.<br>🤝 I’m looking for help with<br>Getting better at open-source contributions, PR reviews, project architecture, and preparing effectively for GSoC 2026.<br>🌱 I’m currently learning<br>Advanced React patterns, Chart.js customizations, responsive design, and improving code quality & readability.<br>💬 Ask me about<br>Frontend development, HTML/CSS, React basics, UI debugging, dashboards, and turning designs into working interfaces.<br>⚡ Fun fact<br>I enjoy building dark-themed UIs late at night — that’s when my best ideas ship 🌙
+# Hi 👋, I'm Akshat Sharma
 
+**Frontend Developer specializing in modern UI development, responsive layouts, and scalable component architecture. Strong interest in UI/UX principles, accessibility, and performance optimization to deliver high-quality user experiences.
+**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akzod_h) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akshat Sharma ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:official.akshatsharma04@gmail.com) 
+## 🔭 I'm currently working on
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akshat-619&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Akshat-619&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-619&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Building and refining frontend interfaces using React and SCSS, focusing on clean UI architecture, responsive design, and reusable components.
+
+## 🌱 I'm currently learning
+
+Deepening knowledge of advanced React patterns, frontend performance optimization, accessibility standards, and scalable UI architecture.
+
+## 👀 I'm interested in
+
+Frontend development, UI/UX design systems, web performance, design consistency, and modern web technologies.
+
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace 'Akshat-619' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Akshat-619/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akshat-619&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akshat-619&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+<!-- ⚠️ Important: Replace 'Akshat-619' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshat-619&theme=flat&column=7&margin-w=15&margin-h=15" />
+</p>
+
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'Akshat-619' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshat-619&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🔝 Most Used Languages
+
+<!-- ⚠️ Important: Replace 'Akshat-619' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-619&layout=compact&langs_count=10&theme=default"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'Akshat-619' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-619&theme=default&hide_border=false" />
+</div>
+
+## 💻 Tech Stack
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-ff69b4?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-ff69b4?style=for-the-badge&logo=tailwind&logoColor=white" /> 
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> 
+
+## 🌐 Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatsharma04/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Akshat-619) 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="left">
+
+📧 **Email:** [official.akshatsharma04@gmail.com](mailto:official.akshatsharma04@gmail.com)
+
+📱 **Phone:** +917558610318
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Akshat-619&icon=1&color=7)](https://visitcount.itsvg.in)
+⭐️ From [Akshat Sharma](https://github.com/Akshat-619)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Profile views counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Akshat-619/count.svg" alt="Visitor Count" />
+</div>
