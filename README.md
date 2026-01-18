@@ -1,88 +1,24 @@
-<!-- ================= HERO (CENTERED & SAFE) ================= -->
+# 💫 About Me:
+🧑‍💻 I’m currently working on<br><br>Creating responsive and modern UIs using Bootstrap 5, Tailwind CSS & SCSS<br><br>Building frontend projects with HTML, CSS, JavaScript & React<br><br>Developing reusable components and clean layouts for real-world applications<br><br>🤝 I’m looking to collaborate on<br><br>Frontend / UI development projects<br><br>React-based web applications<br><br>UI components, dashboards, and landing pages<br><br>🆘 I’m looking for help with<br><br>Advanced JavaScript & React concepts<br><br>Optimizing UI performance<br><br>Writing scalable and maintainable frontend code<br><br>🌱 I’m currently learning<br><br>JavaScript in-depth<br><br>React best practices<br><br>Advanced SCSS and utility-first CSS workflows<br><br>💬 Ask me about<br><br>HTML, CSS, SCSS<br><br>Bootstrap 5 & Tailwind CSS<br><br>JavaScript DOM manipulation<br><br>Responsive UI design<br><br>⚡ Fun fact<br><br>I love converting simple designs into polished, responsive user interfaces ✨
 
-<div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1220,50:0f2a33,100:1f4d5c&text=Akshat%20Sharma&fontSize=46&fontAlignY=40&desc=Frontend%20Developer%20|%20UI%20Focused%20|%20React&descAlignY=60&animation=fadeIn"
-/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akzod_h) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshatsharmaofficial04) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akzod_h) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:official.akshatsharma04@gmail.com) 
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=900&center=true&vCenter=true&width=900&lines=Building+clean+and+responsive+interfaces;Focused+on+UI+architecture+and+performance;React+%7C+JavaScript+%7C+SCSS"
-/>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Akshat-619&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Akshat-619&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-619&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-
-<!-- ================= DARK SECTION 1 ================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=32&color=0:020617,100:020617" />
-
-## About
-
-I am a frontend developer focused on building **clean, responsive, and user-centric interfaces**.
-I enjoy translating design concepts into **scalable, maintainable, and visually consistent** web applications using modern frontend technologies.
-
-I am currently preparing for **internship and entry-level frontend roles**, with a strong interest in UI architecture, accessibility, and performance optimization.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Akshat-619&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Akshat-619&icon=1&color=13)](https://visitcount.itsvg.in)
 
-<!-- ================= DARK SECTION 2 ================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=32&color=0:020617,100:0f172a" />
-
-## What I Focus On
-
-- Responsive and mobile-first UI development  
-- Reusable and scalable React components  
-- SCSS architecture and dark-theme systems  
-- UI performance and smooth interactions  
-- Accessibility and design consistency  
-
----
-
-<!-- ================= DARK SECTION 3 ================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=32&color=0:0f172a,100:020617" />
-
-## Tech Stack
-
-<img
-  src="https://skillicons.dev/icons?i=html,css,sass,js,react,figma,git,github,vscode&theme=dark&perline=12"
-/>
-
----
-
-<!-- ================= DARK SECTION 4 ================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=32&color=0:020617,100:020617" />
-
-## GitHub Activity
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Akshat-619&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-  width="49%"
-/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com?user=Akshat-619&theme=tokyonight&hide_border=true"
-  width="49%"
-/>
-
----
-
-<!-- ================= DARK SECTION 5 ================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=32&color=0:020617,100:0f172a" />
-
-## Career Goal
-
-To begin my professional journey as a frontend developer in a collaborative environment where I can sharpen my skills, learn industry best practices, and build meaningful digital experiences.
-
----
-
-<!-- ================= FOOTER ================= -->
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0b1220,100:0f172a&section=footer&animation=fadeIn"
-/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
